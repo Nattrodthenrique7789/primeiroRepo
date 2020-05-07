@@ -1,5 +1,5 @@
 # primeiro Repositorio 
 
-![./link.png](Link-Zelda Ocarina Of Time)
+![Link](link.jpg)
 
 Este repositorio eh um teste para aprendizado
